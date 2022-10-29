@@ -1,0 +1,17 @@
+.div2 {
+    text-align: center;
+    height: 60%;
+    width: 500;
+}
+
+img {
+    width: 80%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Comic Sans MS', arial;
+    font-size: 40px;
+    background-color: #8a664c;
+    text-align: center;
+}
