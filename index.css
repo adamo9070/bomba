@@ -4,11 +4,29 @@
     max-height: 100%;
 }
 
+.div3 {
+    text-align: center;
+    width: 500;
+    height: 60%;
+}
+
+.div3 img {
+    width: 25%;
+    height: 30%;
+}
+
 body {
     font-family: 'Comic Sans MS', arial;
-    font-size: 40px;
     background-color: #8a664c;
+}
+
+p {
     text-align: center;
+    font-size: 40px;
+}
+
+.pgrzyb {
+    font-size: 30px;
 }
 
 a {
@@ -21,4 +39,24 @@ a {
     text-align: center;
     margin-left: 50%;
     transform: translateX(-50%);
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    outline: 0;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Comic Sans MS', arial;
+    height: 100%;
+    background:#755640;
+    overflow: hidden;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
 }

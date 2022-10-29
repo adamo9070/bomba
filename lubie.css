@@ -1,0 +1,17 @@
+body {
+    font-family: 'Comic Sans MS', arial;
+    background-color: #8a664c;
+    text-align: center;
+    font-size: 40px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.lista {
+    text-align: center;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
