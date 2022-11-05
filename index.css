@@ -167,9 +167,9 @@ table {
 .div1 button {
   position: absolute;
   display: block;
-  margin-top: -11%;
-  margin-left: 50%;
   transform: translateX(-50%);
+  top: 30%;
+  left: 50%;
   width: 50%;
   height: 50%;
   background: transparent;
